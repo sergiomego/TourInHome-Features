@@ -1,4 +1,4 @@
-Acceptance criteria
+Acceptance Criteria
 Scenario: Realiza la búsqueda del destino turístico satisfactoriamente
 GIVEN el usuario se dirija a la sección Catálogo
 WHEN presione sobre la barra de búsqueda y escriba el destino a buscar
