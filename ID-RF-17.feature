@@ -1,3 +1,9 @@
+Feature: Registrarse en la aplicación
+
+As usuario
+Quiero registrarme en Tour in Home
+Para poder empezar a usar el servicio que esta ofrece
+
 Scenario: Registrarse como un turista
 GIVEN El usuario se encuentre en la pantalla de inicio de la aplicación
 WHEN presione el botón “registrarse” y después “registrarse como turista”
