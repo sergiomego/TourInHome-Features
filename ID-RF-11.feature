@@ -1,3 +1,9 @@
+Feature: Seleccionar el método de pago preferido en la aplicación
+
+As turista
+Quiero contar con diferentes métodos de pago
+Para poder pagar con mayor facilidad
+
 Scenario: Cancelar el pago del tour online solicitado
 GIVEN el usuario desea pagar el tour solicitado
 WHEN haya terminado de seleccionar el destino turístico
