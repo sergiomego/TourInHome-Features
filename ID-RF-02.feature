@@ -1,3 +1,9 @@
+Feature: Filtrar catálogo de viajes
+
+As Turista
+Quiero filtrar la búsqueda de los destinos turísticos disponibles
+Para encontrar destinos turísticos de acuerdo con los criterios que desee
+
 Scenario: Filtra el catálogo de acuerdo con criterios seleccionados
 GIVEN el usuario se encuentre en la barra de búsqueda
 WHEN seleccione la opción “filtrar mi búsqueda” y complete los campos requeridos
