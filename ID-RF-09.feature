@@ -1,7 +1,9 @@
 Feature: Calificar la experiencia del tour 
+
 As turista
 Quiero realizar un cuestionario 
 Para calificar la experiencia del tour
+
 Scenario: Aviso de encuesta disponible
 GIVEN el usuario haya finalizado el tour
 WHEN se encuentre en la pantalla de sesión del tour
