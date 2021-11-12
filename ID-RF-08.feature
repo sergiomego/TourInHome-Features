@@ -1,3 +1,9 @@
+Feature: Solicitar cancelación del tour 
+
+As turista
+Quiero cancelar el/los tours a los que me inscribí
+Para pedir la devolución de mi dinero 
+
 Scenario: El turista realiza una cancelación exitosa
 GIVEN el usuario se encuentra en el tour elegido
 WHEN presione el botón “Cancelar Tour”
