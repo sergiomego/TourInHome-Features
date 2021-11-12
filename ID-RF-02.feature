@@ -1,6 +1,6 @@
 Feature: Filtrar catálogo de viajes
 
-As Turista
+As turista
 Quiero filtrar la búsqueda de los destinos turísticos disponibles
 Para encontrar destinos turísticos de acuerdo con los criterios que desee
 
