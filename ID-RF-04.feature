@@ -1,3 +1,9 @@
+Feature: Visualizar los descuentos en los precios de los viajes
+
+As turista
+Quiero visualizar posibles descuentos en los precios de los viajes
+Para poder obtener el mejor precio en el viaje que desee realizar.
+
 Scenario: La app otorga cupones de descuentos para usar en cualquier viaje
 GIVEN el turista hace la reserva del viaje y el guía y procederá ha realizar el pago del viaje
 WHEN note que puede acceder a un descuento
