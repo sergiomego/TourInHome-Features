@@ -1,3 +1,9 @@
+Feature: Visualizar el pago
+
+As guía turístico 
+Quiero visualizar el pago que recibo, 
+Para conocer el monto de mis ingresos mensuales
+
 Scenario: Correcta visualización
 GIVEN que el usuario (guía) se encuentra en su perfil de usuario
 WHEN seleccione la sección pagos
